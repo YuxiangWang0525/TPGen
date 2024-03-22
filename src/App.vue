@@ -62,8 +62,6 @@ export default defineComponent({
     const exportCanvas = () => {
       const canvas = canvasRef.value;
       const dataURL = canvas.toDataURL('image/png');
-
-      // 创建一个a标签
       const a = document.createElement('a');
       a.href = dataURL;
       a.download = '旅行伙伴'+partname.value+'加入了哦.png'; // 设置下载文件名
