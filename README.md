@@ -35,4 +35,6 @@ npm run build 或 yarn build
 
 #### 开源协议
 MIT license  
-二次开发请保留版权信息
+二次开发请保留版权信息  
+晚江右海(YuxiangWang0525) 编写初始源代码  
+贴图素材版权归SEGA所有
