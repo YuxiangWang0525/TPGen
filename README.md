@@ -32,3 +32,7 @@ npm run build 或 yarn build
 例如 https://tpgen.yuxiangwang0525.com  
 不要有根路径存在  
 例如 https://yuxiangwang0525.com/tpgen
+
+#### 开源协议
+MIT license  
+二次开发请保留版权信息

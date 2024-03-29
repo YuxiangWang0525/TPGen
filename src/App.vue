@@ -10,7 +10,8 @@
   <button @click="exportCanvas">导出图片</button>
   <br><br>
   <canvas id="myCanvas" ref="canvasRef" width="507" height="512"> </canvas>
-  <p>晚江右海作品 2024.3</p>
+  <p>晚江右海作品 2024.3</p><br>
+  <a href="https://github.com/YuxiangWang0525/TPGen" target="_blank">GitHub</a>
 </template>
 <script>
 import { defineComponent, ref, onMounted } from 'vue';
