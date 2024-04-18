@@ -38,3 +38,5 @@ MIT license
 二次开发请保留版权信息  
 晚江右海(YuxiangWang0525) 编写初始源代码  
 贴图素材版权归SEGA所有
+
+本项目使用来自JetBrains的正版WenStorm维护
