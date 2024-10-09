@@ -1,3 +1,6 @@
+<h1 align="center">注意 此项目进入为期12月的维护模式</h1>
+<h2 align="center">维护期过后 本项目将归档 不再维护</h2>
+
 # maimai Trip Partner Stickers Generator - 舞萌DX旅行伙伴表情包生成器
 使用Vue+canvas实现
 使用到的主要依赖如下:  
